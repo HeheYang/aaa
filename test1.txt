@@ -1,4 +1,4 @@
- HSSFCellStyle style = workbook.createCellStyle();
+ HEHECellStyle style = workbook.createCellStyle();
         //设置这些样式  
         style.setFillForegroundColor(HSSFColor.SKY_BLUE.index);
         style.setFillPattern(HSSFCellStyle.SOLID_FOREGROUND);
